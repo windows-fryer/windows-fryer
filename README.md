@@ -7,8 +7,8 @@ I'm Liga, 15 from the USA.
 - 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ C++, C
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ C#, C++, C
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
 
