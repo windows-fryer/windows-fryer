@@ -1,5 +1,5 @@
 
-## Hey! 👋
+## Hey! :trollface:
 I'm Liga, 15 from the USA.
 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
