@@ -16,3 +16,7 @@ I'm Liga, 15 from the USA.
 - [liga@wednesday.wtf](https://wednesday.wtf)
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
 - [Liga#0001](https://discord.wednesday.wtf) on Discord
+
+## Extra
+<a href="https://github.com/windows-fryer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windows-fryer&count_private=true&layout=compact&theme=apprentice&hide_border=true" /></a><br>
+<a href="https://github.com/windows-fryer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=windows-fryer&count_private=true&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Ligas's GitHub Stats" /></a>
