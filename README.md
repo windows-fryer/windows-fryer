@@ -4,7 +4,7 @@ I'm Liga, 15 from the USA.
 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
 
-- 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip)
+- 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip) & [ars.red](https://ars.red)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
