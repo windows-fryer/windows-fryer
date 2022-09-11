@@ -8,7 +8,7 @@ I'm Liga, 15 from the USA.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ C#, C++, C
+- ⚙️ C#, C++, C, Lua
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
 
