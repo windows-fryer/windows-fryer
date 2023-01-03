@@ -19,4 +19,3 @@ I'm Liga, 15 from the USA.
 
 ## Extra
 <a href="https://github.com/windows-fryer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windows-fryer&count_private=true&layout=compact&theme=apprentice&hide_border=true" /></a><br>
-<a href="https://github.com/windows-fryer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=windows-fryer&count_private=true&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Ligas's GitHub Stats" /></a>
