@@ -1,8 +1,6 @@
 
 ## Hey! :trollface:
 - 🧑‍🦱 I'm Liga, 15 from the USA. 
-- ♥️ Proud trans rights advocate.
-- 🐈‍⬛ I go by Catself/Catperson/Cat but They/Them works!
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
 - 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip) & [ars.red](https://ars.red)
 
