@@ -14,6 +14,3 @@
 - [liga@wednesday.wtf](https://wednesday.wtf)
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
 - [Liga#0001](https://discord.com/users/787500585792438303) on Discord
-
-## Extra
-<a href="https://github.com/windows-fryer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windows-fryer&count_private=true&layout=compact&theme=apprentice&hide_border=true" /></a><br>
