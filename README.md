@@ -1,6 +1,6 @@
 
 ## Hey! :trollface:
-- 🧑‍🦱 I'm Liga, 15 from the USA. 
+- 🧑‍🦱 I'm Liga, 16 from the USA. 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
 - 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip) & [ars.red](https://ars.red)
 
