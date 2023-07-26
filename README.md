@@ -13,6 +13,6 @@
 ## Contact
 - [liga@wednesday.wtf](https://wednesday.wtf) on E-Mail
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
-- [Liga#0001](https://discord.com/users/787500585792438303) on Discord
+- [@liga](https://discord.com/users/787500585792438303) on Discord
 - [@linuxfryer](https://t.me/linuxfryer) on Telegram
 - [@linux-fryer:matrix.org](https://matrix.org/) on Matrix
