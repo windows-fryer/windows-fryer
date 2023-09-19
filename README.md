@@ -5,13 +5,13 @@
 - 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ C#, C++, C, Lua, Moon
+- 👨‍💻 TypeScript, JavaScript, Lua, Moon, Python
+- ⚙️ C#, C++, C, PHP
 - 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL, Mongo, R2, S3
 
 ## Contact
-- [liga@wednesday.wtf](https://wednesday.wtf) on E-Mail
+- [liga@wednesday.wtf](https://mail.wednesday.wtf) on E-Mail
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
 - [@liga](https://discord.com/users/787500585792438303) on Discord
 - [@linuxfryer](https://t.me/linuxfryer) on Telegram
