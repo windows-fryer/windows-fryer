@@ -1,8 +1,7 @@
 
-## Hey! :trollface:
+## Hey!
 - 🧑‍🦱 I'm Liga, 16 from the USA. 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
-- 👥 Core team member at [hotwheels.vip](https://github.com/hotwheels-vip)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Lua, Moon, Python
