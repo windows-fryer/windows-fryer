@@ -1,10 +1,11 @@
 
 ## Hey!
-- 🧑‍🦱 I'm Liga, 16 from the USA. 
+- 🧑‍🦱 I'm Liga, 17 from the USA. 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
+- 🖥️ Currently on Arch-Linux using i3wm.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, Moon, Python
+- 👨‍💻 TypeScript, JavaScript, Lua(JIT, U), MoonScript, Python3
 - ⚙️ C#, C++, C, PHP
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo, R2, S3
