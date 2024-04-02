@@ -2,7 +2,7 @@
 ## Hey!
 - 🧑‍🦱 I'm Liga, 17 from the USA. 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
-- 🖥️ Currently on Windows 11 using Ghost Spectre.
+- 🖥️ Currently on AtlasOS 10.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Lua(JIT, U), MoonScript, Yuescript, Python3
