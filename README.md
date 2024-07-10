@@ -2,7 +2,7 @@
 ## Hey!
 - 🧑‍🦱 I'm Liga, 17 from the USA. 
 - 🧭 Founder at [wednesday.wtf](https://wednesday.wtf)
-- 🖥️ Currently on AtlasOS 10.
+- 🖥️ Currently on Windows 10.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Lua(JIT, U), MoonScript, Yuescript, Python3
@@ -14,7 +14,7 @@
 - [liga@wednesday.wtf](https://mail.wednesday.wtf) on E-Mail
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
 - [@liga](https://discord.com/users/787500585792438303) on Discord
-- [@linuxfryer](https://t.me/linuxfryer) on Telegram
+- [@pencilbat](https://t.me/pencilbat) on Telegram
 - [@linux-fryer:matrix.org](https://matrix.org/) on Matrix
 
 ## Dotfiles
