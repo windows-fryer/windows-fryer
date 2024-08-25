@@ -14,7 +14,7 @@
 - [liga@wednesday.wtf](https://mail.wednesday.wtf) on E-Mail
 - [@ProDisassembler](https://twitter.com/ProDisassembler) on Twitter
 - [@liga](https://discord.com/users/787500585792438303) on Discord
-- [@pencilbat](https://t.me/pencilbat) on Telegram
+- [@pencilbat](https://t.me/intCast) on Telegram
 - [@linux-fryer:matrix.org](https://matrix.org/) on Matrix
 
 ## Dotfiles
