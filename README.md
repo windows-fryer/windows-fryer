@@ -46,9 +46,9 @@ Current Aspiration:
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
 Notable Projects:
-- **Apex Legends P.O.C. DMA Software**: [video](https://cdn.discordapp.com/attachments/1202668614658818172/1252396723259707512/1718665045263.mp4?ex=66d39fd7&is=66d24e57&hm=96e858d30d63305547da75a7bbcb319b64cc4546a71babacde590eea253e1255&)
-- **Apex Legends P.O.C. KVM Software**: [screenshot](https://cdn.discordapp.com/attachments/1195872762024186077/1196200418582208623/170526680147932125.png?ex=66d38774&is=66d235f4&hm=25f4ae361ed07a2ed5641bc24fbf051c610369f48b31a31bedab1692b18c2cc6&)
-- **TF2 P.O.C. Windows x86 Software**: [video](https://cdn.discordapp.com/attachments/850323948587450368/1140362894291247154/16919540936303043.mp4?ex=66d36bb4&is=66d21a34&hm=6674834cd96a0c1c4f939f2e222b88428ff3e85a4b47c7f11e90b38c2ea6199d&) [research](https://www.unknowncheats.me/forum/team-fortress-2-a/593509-alternative-third-person-angles.html) *(source is lost; scattered along my SSD, unpartitioned, somewhere...)*
+- **Apex Legends P.O.C. DMA Software**: [video](https://streamable.com/fz89vg)
+- **Apex Legends P.O.C. KVM Software**: [screenshot](https://imgur.com/xst12zp)
+- **TF2 P.O.C. Windows x86 Software**: [video](https://streamable.com/dsyils) [research](https://www.unknowncheats.me/forum/team-fortress-2-a/593509-alternative-third-person-angles.html) *(source is lost; scattered along my SSD, unpartitioned, somewhere...)*
 - **TF2 Hotwheels© Internal**: [source](https://github.com/hotwheels-vip/tf2-internal/)
 - **CS:GO Hotwheels© External**: [source](https://github.com/hotwheels-vip/csgo-external)
 - **CS:GO Hotwheels© External Driver**: [source](https://github.com/hotwheels-vip/csgo-external-driver)
