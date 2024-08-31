@@ -16,6 +16,20 @@ My programming adventure began with high-level languages, where I explored the v
 
 In the past few years, I've shifted my focus towards **low-level development**. This area fascinates me because it allows me to work closer to the hardware, optimize performance, and understand the inner workings of computer systems. It's like peeling back the layers of an onion to reveal the core. 🧅🔧
 
+### 📊 Graphically
+
+```mermaid
+flowchart LR
+    A["High-Level Languages"] --> B["Web Development"] & C["Mobile App Creation"] & D["Game Development"]
+    B --> E["Solid Foundation"]
+    C --> E
+    D --> E
+    E --> F["Ignited Curiosity"]
+    F --> G["Delve Deeper into Low Level Programming<br>"]
+    G --> H["C"] & I["C++"] & J["Zig"] & K["x86_64"]
+```
+
+
 ## 🚀 Skills & Expertise
 
 - **Programming Languages:** C, C++, Zig, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C#
