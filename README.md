@@ -26,28 +26,29 @@ In the past few years, I've shifted my focus towards **low-level development**. 
 
 ## ✏️ Projects
 
-An important project I'm currently working on is:
-- 🐈‍⬛🗲 **Kitty-Zig**: *"Kitty: Compiler, Interpreter, Runtime"*
+Current Aspiration:
+#### 🐈‍⬛ **Kitty-Zig**: *"Kitty: Compiler, Interpreter, Runtime"* ⚡
 
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
-Some notable projects I've worked on include:
+Notable Projects:
 - **Apex Legends P.O.C. DMA Software**: [video](https://cdn.discordapp.com/attachments/1202668614658818172/1252396723259707512/1718665045263.mp4?ex=66d39fd7&is=66d24e57&hm=96e858d30d63305547da75a7bbcb319b64cc4546a71babacde590eea253e1255&)
 - **Apex Legends P.O.C. KVM Software**: [screenshot](https://cdn.discordapp.com/attachments/1195872762024186077/1196200418582208623/170526680147932125.png?ex=66d38774&is=66d235f4&hm=25f4ae361ed07a2ed5641bc24fbf051c610369f48b31a31bedab1692b18c2cc6&)
 - **TF2 P.O.C. Windows x86 Software**: [video](https://cdn.discordapp.com/attachments/850323948587450368/1140362894291247154/16919540936303043.mp4?ex=66d36bb4&is=66d21a34&hm=6674834cd96a0c1c4f939f2e222b88428ff3e85a4b47c7f11e90b38c2ea6199d&) [research](https://www.unknowncheats.me/forum/team-fortress-2-a/593509-alternative-third-person-angles.html) *(source is lost; scattered along my SSD, unpartitioned, somewhere...)*
 - **TF2 Hotwheels© Internal**: [source](https://github.com/hotwheels-vip/tf2-internal/)
-- **CS:GO Hotwheels© Internal**: [source](https://github.com/hotwheels-vip/csgo-internal)
 - **CS:GO Hotwheels© External**: [source](https://github.com/hotwheels-vip/csgo-external)
 - **CS:GO Hotwheels© External Driver**: [source](https://github.com/hotwheels-vip/csgo-external-driver)
+- **CS:GO Wednesday Internal**: [source](https://github.com/windows-fryer/wednesday-csgo) [research](https://www.unknowncheats.me/forum/3324734-post4.html) *(fork of hotwheels cs:go with added features)* 
+- **CS:GO Hotwheels© Internal**: [source](https://github.com/hotwheels-vip/csgo-internal)
 - **TF2 Friend Code-Along P.O.C.**: [source](https://github.com/windows-fryer/skeletons_cx)
 
-Some of the more fun projects I've done are:
+Fun Projects:
 - **MuseDash DLC Unlocker**: [source](https://github.com/windows-fryer/musedash-unlocker)
 - **Death Must Die Trainer**: [source](https://github.com/windows-fryer/death-must-gamble)
 - **Lethal Company Trainer**: [source](https://github.com/wednesdaywtf/lethal-company)
 - **Twitch Sniper Bot**: [source](https://github.com/windows-fryer/sniper-bot/)
 
-Some minor projects that could be gists are:
+Minor Projects / Gists:
 - **C Windows Signature Scanner**: [source](https://github.com/windows-fryer/CigFinder)
 - **Moonscript Bundler**: [source](https://github.com/windows-fryer/moon_bundler)
 
