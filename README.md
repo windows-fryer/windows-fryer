@@ -46,7 +46,7 @@ Current Aspiration:
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
 Notable Projects:
-- **Apex Legends P.O.C. DMA Software**: [video](https://streamable.com/fz89vg)
+- **Apex Legends P.O.C. DMA Software**: [source](https://github.com/wednesdaywtf/apex-dma/tree/trunk) [video](https://streamable.com/fz89vg)
 - **Apex Legends P.O.C. KVM Software**: [screenshot](https://imgur.com/xst12zp)
 - **TF2 P.O.C. Windows x86 Software**: [video](https://streamable.com/dsyils) [research](https://www.unknowncheats.me/forum/team-fortress-2-a/593509-alternative-third-person-angles.html) *(source is lost; scattered along my SSD, unpartitioned, somewhere...)*
 - **TF2 Hotwheels© Internal**: [source](https://github.com/hotwheels-vip/tf2-internal/)
