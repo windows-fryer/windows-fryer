@@ -32,16 +32,16 @@ flowchart LR
 
 ## 🚀 Skills & Expertise
 
-- **Programming Languages:** C, C++, Zig, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C#
-- **Formatting Languages:** HTML, CSS, SASS, Markdown
-- **Tools & Technologies:** GCC, GDB, LLVM, Make, CMake, Ninja, Zig-build, Git, Mongo, SQL, R2, S3
+- **Programming Languages:** C, C++, Zig, Rust, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C#
+- **Formatting Languages:** HTML, CSS, SASS, Markdown, Mermaid
+- **Tools & Technologies:** GCC, GDB, LLVM, Make, CMake, Ninja, Zig-build, Git, Mongo, SQL, R2, S3, IDA, Binary-Ninja, Ghidra, Cutter
 - **Operating Systems:** Linux, Windows, Embedded Systems
 - **Areas of Interest:** Systems Programming, Embedded Development, Performance Optimization
 
 ## ✏️ Projects
 
 Current Aspiration:
-#### 🐈‍⬛ **Kitty-Zig**: *"Kitty: Compiler, Interpreter, Runtime"* ⚡
+#### 🐈‍⬛ **Kitty-Rust**: *"Kitty: Compiler, Interpreter, Runtime"* 🦀
 
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
