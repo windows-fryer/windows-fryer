@@ -10,7 +10,7 @@ I've been on an incredible programming journey for almost **9 years** now. Over 
 
 ### 🏁 Early Days
 
-My programming adventure began with high-level languages, where I explored the vast landscapes of web development, mobile app creation, and even some game development. These experiences laid a solid foundation for my skills and ignited my curiosity to delve deeper into the world of coding. 🌐📱🎮
+My programming adventure began with high-level languages, where I explored the vast landscapes of web development, app creation, and even some game development. These experiences laid a solid foundation for my skills and ignited my curiosity to delve deeper into the world of coding. 🌐📱🎮
 
 ### 🔍 Recent Focus
 
@@ -25,14 +25,14 @@ flowchart LR
     C --> E
     D --> E
     E --> F["Ignited Curiosity"]
-    F --> G["Delve Deeper into Low Level Programming<br>"]
-    G --> H["C"] & I["C++"] & J["Zig"] & K["x86_64"]
+    F --> G["Delve Deeper into Low Level Programming"]
+    G --> H["C"] & I["C++"] & J["Zig"] & K["ASM"] & L["Rust"]
 ```
 
 
 ## 🚀 Skills & Expertise
 
-- **Programming Languages:** C, C++, Zig, Rust, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C#
+- **Programming Languages:** C, C++, Rust, Zig, Rust, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C# (tl;dr anything you throw at me)
 - **Formatting Languages:** HTML, CSS, SASS, Markdown, Mermaid
 - **Tools & Technologies:** GCC, GDB, LLVM, Make, CMake, Ninja, Zig-build, Git, Mongo, SQL, R2, S3, IDA, Binary-Ninja, Ghidra, Cutter
 - **Operating Systems:** Linux, Windows, Embedded Systems
