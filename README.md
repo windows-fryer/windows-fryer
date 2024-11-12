@@ -8,6 +8,12 @@ Hi there! I'm **Liga** from the **United States**. 🇺🇸
 
 I've been on an incredible programming journey for almost **9 years** now. Over the years, I've dabbled in various aspects of software development, but recently, I've found my true passion in **low-level development**. 🛠️
 
+### 🏆 Awards
+- 🥉 Bronze medalist in SkillsUSA Oregon 2024
+- 🇺🇸 Nationalist nominee for SkillsUSA 2024
+- ✨ 4 on AP Computer Science A exam
+
+
 ### 🏁 Early Days
 
 My programming adventure began with high-level languages, where I explored the vast landscapes of web development, app creation, and even some game development. These experiences laid a solid foundation for my skills and ignited my curiosity to delve deeper into the world of coding. 🌐📱🎮
