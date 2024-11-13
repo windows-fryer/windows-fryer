@@ -41,7 +41,7 @@ flowchart LR
 
 - **Programming Languages:** C, C++, Rust, Zig, Rust, Python, Lua, Yue, Moon, JavaScript, TypeScript, PHP, C# (tl;dr anything you throw at me)
 - **Formatting Languages:** HTML, CSS, SASS, Markdown, Mermaid
-- **Tools & Technologies:** GCC, GDB, LLVM, Make, CMake, Ninja, Zig-build, Git, Mongo, SQL, R2, S3, IDA, Binary-Ninja, Ghidra, Cutter
+- **Tools & Technologies:** GCC, GDB, LLVM, Make, CMake, Ninja, Zig-build, Git, Mongo, SQL, R2, S3, IDA, Binary-Ninja, Ghidra, Cutter, Regex
 - **Operating Systems:** Linux, Windows, Embedded Systems
 - **Areas of Interest:** Systems Programming, Embedded Development, Performance Optimization
 
