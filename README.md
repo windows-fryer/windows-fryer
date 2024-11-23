@@ -48,7 +48,7 @@ flowchart LR
 ## ✏️ Projects
 
 Current Aspiration:
-#### 🐈‍⬛ **Kitty-Rust**: *"Kitty: Compiler, Interpreter, Runtime"* 🦀
+#### 🐈‍⬛ **[wednesday-oxidize](https://github.com/windows-fryer/wednesday-oxidize)**: General purpose rewrite of Wednesday in the Rust programming language. 🦀
 
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
