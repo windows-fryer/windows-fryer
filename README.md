@@ -88,3 +88,4 @@ Feel free to reach out if you share similar interests or if you just want to cha
 ---
 
 Thank you for taking the time to learn a bit about me. I'm excited to connect with fellow enthusiasts and professionals in the tech community! 🚀
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=windows-fryer&theme=darkhub&no-bg=true&no-frame=true)
