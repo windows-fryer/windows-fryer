@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hi there! I'm **Liga** from the **United States**. 🇺🇸
+Hi there! I'm **Liga**, 18, from the **United States**. 🇺🇸
 
 ## 💻 My Programming Journey
 
@@ -14,10 +14,9 @@ I've been on an incredible programming journey for almost **9 years** now. Over 
 - ✨ 4 on AP Computer Science A exam
 - 📋 Top 10 team for George Fox programming competition of 2024
 
-
 ### 🏁 Early Days
 
-My programming adventure began with high-level languages, where I explored the vast landscapes of web development, app creation, and even some game development. These experiences laid a solid foundation for my skills and ignited my curiosity to delve deeper into the world of coding. 🌐📱🎮
+My programming adventure began with high-level languages, where I explored the vast landscapes of web development, app creation, and even some game development. These experiences laid a solid foundation for my skills and ignited my curiosity to dive deeper into the world of low-level / embedded programming. 🌐📱🎮
 
 ### 🔍 Recent Focus
 
@@ -35,7 +34,6 @@ flowchart LR
     F --> G["Delve Deeper into Low Level Programming"]
     G --> H["C"] & I["C++"] & J["Zig"] & K["ASM"] & L["Rust"]
 ```
-
 
 ## 🚀 Skills & Expertise
 
@@ -83,9 +81,11 @@ Feel free to reach out if you share similar interests or if you just want to cha
 
 - [GitHub](https://github.com/windows-fryer/windows-fryer/) 🐙
 - [Telegram](https://t.me/intCast) ✉️
-- [E-Mail](mailto:liga@wednesday.wtf) 📬
+- [E-Mail](mailto:githubwindowsfryer.tacking693@passmail.net) 📬
 
 ---
 
 Thank you for taking the time to learn a bit about me. I'm excited to connect with fellow enthusiasts and professionals in the tech community! 🚀
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=windows-fryer&theme=darkhub&no-bg=true&no-frame=true)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=windows-fryer&theme=oldie)
