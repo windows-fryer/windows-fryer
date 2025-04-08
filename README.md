@@ -9,6 +9,7 @@ Hi there! I'm **Liga**, 18, from the **United States**. 🇺🇸
 I've been on an incredible programming journey for almost **9 years** now. Over the years, I've dabbled in various aspects of software development, but recently, I've found my true passion in **low-level development**. 🛠️
 
 ### 🏆 Awards
+- 🥇 Gold medalist in TSA Oregon 2025
 - 🥉 Bronze medalist in SkillsUSA Oregon 2024
 - 🇺🇸 Nationalist nominee for SkillsUSA 2024
 - ✨ 4 on AP Computer Science A exam
