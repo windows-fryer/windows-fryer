@@ -13,7 +13,8 @@ I've been on an incredible programming journey for almost **9 years** now. Over 
 - 🥉 Bronze medalist in SkillsUSA Oregon 2024
 - 🇺🇸 Nationalist nominee for SkillsUSA 2024
 - ✨ 4 on AP Computer Science A exam
-- 📋 Top 10 team for George Fox programming competition of 2024
+- 📋 Top 5 team for George Fox D1 programming competition of 2024
+- 🥈 Silver medalist in George Fox D1 programming competition of 2025
 
 ### 🏁 Early Days
 
