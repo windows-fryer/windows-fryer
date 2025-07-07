@@ -27,14 +27,25 @@ In the past few years, I've shifted my focus towards **low-level development**. 
 ### 📊 Graphically
 
 ```mermaid
-flowchart LR
-    A["High-Level Languages"] --> B["Web Development"] & C["Mobile App Creation"] & D["Game Development"]
-    B --> E["Solid Foundation"]
-    C --> E
-    D --> E
-    E --> F["Ignited Curiosity"]
-    F --> G["Delve Deeper into Low Level Programming"]
-    G --> H["C"] & I["C++"] & J["Zig"] & K["ASM"] & L["Rust"]
+graph TD
+    subgraph "High-Level Foundation"
+        A[Web Development]
+        B[App Creation]
+        C[Game Development]
+    end
+
+    subgraph "Current Passion: Low-Level"
+        D[Systems Programming]
+        E[Embedded Development]
+        F[Performance Optimization]
+    end
+
+    A --> G{Solid Foundation & Curiosity}
+    B --> G
+    C --> G
+    G --> D
+    G --> E
+    G --> F
 ```
 
 ## 🚀 Skills & Expertise
@@ -48,11 +59,12 @@ flowchart LR
 ## ✏️ Projects
 
 Current Aspiration:
-#### 🐈‍⬛ **[wednesday-oxidize](https://github.com/windows-fryer/wednesday-oxidize)**: General purpose rewrite of Wednesday in the Rust programming language. 🦀
+#### 🩵 Godin: Distributed Relational Storage written in Go using RESTful API's
 
 *Most of the more important projects that I've worked on haven't been open-sourced yet.*
 
 Notable Projects:
+- **Wednesday Oxidize**: [source](https://github.com/windows-fryer/wednesday-oxidize)
 - **Apex Legends P.O.C. DMA Software**: [source](https://github.com/wednesdaywtf/apex-dma/tree/trunk) [video](https://streamable.com/fz89vg)
 - **Apex Legends P.O.C. KVM Software**: [screenshot](https://imgur.com/xst12zp)
 - **TF2 P.O.C. Windows x86 Software**: [video](https://streamable.com/dsyils) [research](https://www.unknowncheats.me/forum/team-fortress-2-a/593509-alternative-third-person-angles.html) *(source is lost; scattered along my SSD, unpartitioned, somewhere...)*
